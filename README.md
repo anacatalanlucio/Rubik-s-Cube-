@@ -4,8 +4,8 @@
 Antoine Dufour-Blain
 Kennedy Ballard
 Samuel Lambert-Senécal
-Ana Lucio, 40032548
-Thomas Rao, 40097357
+Ana Lucio
+Thomas Rao
 ## General structure ##
 
 * `doc` is for documentation, report, etc. Create a dir for your team there, e.g., `teamX`, and initialize the report document there.
