@@ -1,11 +1,11 @@
 # README #
 
 # TEAM MEMBERS #
-Antoine Dufour-Blain, 21308130, antoine.dufourblain@gmail.com
-Kennedy Ballard, 40132850, kennedyjballard@gmail.com
-Samuel Lambert-Senécal, 40112310, s_lambert-senecal@hotmail.fr
-Ana Lucio, 40032548, catalan.lucio@hotmail.com
-Thomas Rao, 40097357, thomas.rao@outlook.com
+Antoine Dufour-Blain
+Kennedy Ballard
+Samuel Lambert-Senécal
+Ana Lucio, 40032548
+Thomas Rao, 40097357
 ## General structure ##
 
 * `doc` is for documentation, report, etc. Create a dir for your team there, e.g., `teamX`, and initialize the report document there.
